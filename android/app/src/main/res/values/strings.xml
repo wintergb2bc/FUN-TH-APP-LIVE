@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FUN88</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">kbTCfHBFwY3zByaGKmF6xR95Q8Di4ksvOXqog</string>
+</resources>
